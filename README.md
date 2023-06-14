@@ -40,13 +40,10 @@
 
 ---
 
-[![GitHub commits](https://img.shields.io/github/last-commit/nekolocal/commits/master.svg)](https://github.com/nekolocal/commits/master)
-[![GitHub stars](https://img.shields.io/github/stars/nekolocal/commits/master.svg?style=social)](https://github.com/nekolocal/commits/master/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/nekolocal/commits/master.svg?style=social)](https://github.com/nekolocal/commits/master/network/members)
-[![Python Badge](https://img.shields.io/badge/Python-Script-blue)](link-to-your-python-script)
-[![Pyrogram Badge](https://img.shields.io/badge/Pyrogram-Script-red)](link-to-your-pyrogram-script)
+[![GitHub stars](https://img.shields.io/github/stars/nekolocal?style=social)](https://github.com/nekolocal?tab=stars)
+[![GitHub forks](https://img.shields.io/github/forks/nekolocal?style=social)](https://github.com/nekolocal?tab=forks)
+[![GitHub commits](https://img.shields.io/github/commit-activity/w/nekolocal?label=commits)](https://github.com/nekolocal/commits/master)
 
----
 
 ![Glitch Image](https://glitch-image.now.sh/IMAGE_URL)
 
