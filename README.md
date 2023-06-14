@@ -38,5 +38,5 @@
 
 
 
-![Glitch Image](https://glitch-image.now.sh/IMAGE_URL)
+![Glitch Image](https://glitch-image.now.sh/https://camo.githubusercontent.com/e48464551666047181b386fd12eb9a79e4b95e54cc8968d5b1ad48b919483dc9/68747470733a2f2f74656c656772612e70682f66696c652f6134343837313461666430613133643064663331362e6a7067)
 
