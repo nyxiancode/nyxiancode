@@ -10,9 +10,23 @@
 ![Pyrogram Badge](https://img.shields.io/badge/Pyrogram-red?style=for-the-badge)
 
 
-## Education
-- [Degree], [University/Institution], [Year]
-- ...
+<!-- Typing Effect Section -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(){
+    new Typed('.typing', {
+      strings: ['Web Developer', 'Software Engineer', 'Data Scientist'],
+      typeSpeed: 80,
+      loop: true,
+      backDelay: 1000,
+      backSpeed: 50
+    });
+  });
+</script>
+
+<div align="center">
+  <h2>I'm a <span class="typing"></span></h2>
+</div>
 
 ## Contact Me
 [![Email Icon](https://img.shields.io/badge/Email-Click%20Here-red?style=for-the-badge&logo=mail)](mailto:yourname@example.com)
