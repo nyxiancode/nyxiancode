@@ -7,7 +7,7 @@
 
 
 ![Python Badge](https://img.shields.io/badge/Python-Large-blue?style=for-the-badge)
-![Pyrogram Badge](https://img.shields.io/badge/Pyrogram-Large-red?style=for-the-badge)
+![Pyrogram Badge](https://img.shields.io/badge/Pyrogram-red?style=for-the-badge)
 
 
 ## Education
