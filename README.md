@@ -1,16 +1,10 @@
 <div align="center">
-  <h1>Hi there, I'm [Your Name]! 👋</h1>
+  <h1>Hi there, I'm [NekoLocal]! 👋</h1>
   <p>About Me</p>
-  <p>I'm a [Your Profession/Role] based in [Your Location]. I have a passion for [Your Interests/Domain] and enjoy [Other Hobbies/Activities].</p>
+  <p>I'm a from Indonesian</p>
 </div>
 
----
 
-## Skills
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- ...
 
 ![Python Badge](https://img.shields.io/badge/Python-Large-blue?style=for-the-badge)
 ![Pyrogram Badge](https://img.shields.io/badge/Pyrogram-Large-red?style=for-the-badge)
@@ -41,8 +35,7 @@
 ---
 
 [![GitHub stars](https://img.shields.io/github/stars/nekolocal?style=social)](https://github.com/nekolocal?tab=stars)
-[![GitHub forks](https://img.shields.io/github/forks/nekolocal?style=social)](https://github.com/nekolocal?tab=forks)
-[![GitHub commits](https://img.shields.io/github/commit-activity/w/nekolocal?label=commits)](https://github.com/nekolocal/commits/master)
+
 
 
 ![Glitch Image](https://glitch-image.now.sh/IMAGE_URL)
