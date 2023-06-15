@@ -20,7 +20,8 @@ Other thing you need to know:
 
 - 🌱 I’m currently learning on programming.
 - 💬 Ask me about Telegram Bot only.
-- 📫 Contact me on: [Telegram](https://t.me/panda_repo)
+- 📫[![Telegram](https://img.shields.io/badge/Telegram-%40yourusername-blue)](https://t.me/OwnNeko)
+
 
 ### My Stats
 ![Panda Repo's GitHub stats](https://github-readme-stats.vercel.app/api?username=panda-repo&show_icons=true&theme=radical)
