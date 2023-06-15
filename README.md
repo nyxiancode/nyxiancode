@@ -21,8 +21,9 @@ Other thing you need to know:
 - 🌱 I’m currently learning on programming.
 - 💬 Ask me about Telegram Bot only.
 - 
-<img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logoColor=white&logo=telegram"/>
-[![Built with Python](https://img.shields.io/badge/Python-Large-blue.svg)](https://www.python.org/)
+[![Telegram Profile](https://img.shields.io/badge/Telegram%20Profile-blue?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/your-telegram-profile-link)
+
+
 
 
 
