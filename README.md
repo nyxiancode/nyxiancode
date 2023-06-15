@@ -21,7 +21,7 @@ Other thing you need to know:
 - 🌱 I’m currently learning on programming.
 - 💬 Ask me about Telegram Bot only.
 - 
-[![Telegram Profile](https://img.shields.io/badge/Telegram%20Profile-blue?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/your-telegram-profile-link)
+[![Telegram Profile](https://img.shields.io/badge/Telegram-blue%20Profile-red?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/OwnNeko)
 
 
 
