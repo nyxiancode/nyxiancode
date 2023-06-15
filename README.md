@@ -20,7 +20,8 @@ Other thing you need to know:
 
 - 🌱 I’m currently learning on programming.
 - 💬 Ask me about Telegram Bot only.
-- 📫[![Telegram](https://img.shields.io/badge/Telegram-%40yourusername-blue)](https://t.me/OwnNeko)
+- 
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logoColor=white&logo=telegram"/>
 
 
 ### My Stats
