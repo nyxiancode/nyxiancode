@@ -1,4 +1,4 @@
-<center>━━━━━━━━━━━━━━━━━━━━</center>
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
 <h2 align="center">
     ──「 ɴᴇᴋᴏʟᴏᴄᴀʟ 」──
@@ -15,44 +15,30 @@
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-purple?&style=for-the-badge&logoColor=white&logo=heroku"/>
 <img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logoColor=white&logo=telegram"/>
 </div>
-━━━━━━━━━━━━━━━━━━━━
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-#
-[![Telegram](https://img.shields.io/badge/Telegram-OwnNeko-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/OwnNeko)
-
-
-[![Telegram](https://img.shields.io/badge/Neko-Menfess-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/NekoMenfess)
-
-
-
-
-### My Stats
-![nekolocal GitHub stats](https://github-readme-stats.vercel.app/api?username=nekolocal&show_icons=true&theme=radical)
-
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=nekolocal&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/nekolocal)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=nekolocal)
-
-# My Tools:
-- PyCharm
-- Numpy
-- Visual Studio Code
-- GitHub CLI
-- Heroku Cli
-- PyQT
 
 <h1 align="center">Hi 👋, I'm Neko</h1>
 <h3 align="center">A passionate frontend developer from Indoneisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nekolocal&label=Profile%20views&color=0e75b6&style=flat" alt="nekolocal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nekolocal" alt="nekolocal" /></a> </p>
 
 - 💬 Ask me about **My Telegram Bot Only**
 
 - ⚡ Fun fact **I'am Human**
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nekolocal" alt="nekolocal" /></a> </p> 
+
 <h3 align="left">Connect with me:</h3>
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-OwnNeko-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/OwnNeko) [![Telegram](https://img.shields.io/badge/Neko-Menfess-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/NekoMenfess)
+
+
+
+
 <p align="left">
 </p>
 
