@@ -1,3 +1,8 @@
+━━━━━━━━━━━━━━━━━━━━
+
+<h2 align="center">
+    ──「 ɴᴇᴋᴏʟᴏᴄᴀʟ 」──
+</h2>
 <p align="center"><img src="https://telegra.ph/file/0197fda020e3b2a443b04.gif">
 </p>
 
