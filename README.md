@@ -1,4 +1,5 @@
-<p align="center"><img src="https://telegra.ph/file/033d86a8f48a8e234b41e.mp4" alt="ICON" width="150" height="150"/></p>
+<p align="center">![Alt Text](https://telegra.ph/file/0197fda020e3b2a443b04.gif)
+</p>
 
 <div align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
