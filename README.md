@@ -22,6 +22,8 @@ Other thing you need to know:
 - 💬 Ask me about Telegram Bot only.
 - 
 <img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logoColor=white&logo=telegram"/>
+[![Built with Python](https://img.shields.io/badge/Python-Large-blue.svg)](https://www.python.org/)
+
 
 
 ### My Stats
