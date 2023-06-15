@@ -14,7 +14,7 @@
 
 ### Hello There 👋🏻, welcome to my GitHub profile.
 
-Let me introduce you about myself, my name is Panda; from Indonesia. My hobby is Listening music, Playing Game, Poster Design & Logo making.
+Let me introduce you about myself, my name is neko; from Indonesia. My hobby is Listening music, Playing Game, Poster Design & Logo making.
 
 Other thing you need to know:
 
@@ -28,7 +28,7 @@ Other thing you need to know:
 
 
 ### My Stats
-![Panda Repo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekolocal&show_icons=true&theme=radical)
+![nekolocal GitHub stats](https://github-readme-stats.vercel.app/api?username=nekolocal&show_icons=true&theme=radical)
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=nekolocal&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/nekolocal)
 
