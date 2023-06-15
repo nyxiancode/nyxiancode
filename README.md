@@ -1,4 +1,4 @@
-<p align="center">![Alt Text](https://telegra.ph/file/0197fda020e3b2a443b04.gif)
+<p align="center"><img src="https://telegra.ph/file/0197fda020e3b2a443b04.gif">
 </p>
 
 <div align="center">
