@@ -28,11 +28,11 @@ Other thing you need to know:
 
 
 ### My Stats
-![Panda Repo's GitHub stats](https://github-readme-stats.vercel.app/api?username=panda-repo&show_icons=true&theme=radical)
+![Panda Repo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekolocal&show_icons=true&theme=radical)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=panda-repo&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/panda-repo)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=nekolocal&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/nekolocal)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=panda-repo)
+![](https://visitor-badge.laobi.icu/badge?page_id=nekolocal)
 
 # My Tools:
 - PyCharm
