@@ -29,6 +29,8 @@ Other thing you need to know:
 [![Telegram](https://img.shields.io/badge/Telegram-OwnNeko-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/OwnNeko)
 
 
+[![Telegram](https://img.shields.io/badge/Neko-Menfess-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/NekoMenfess)
+
 
 
 
