@@ -3,7 +3,7 @@
 <h2 align="center">
     ──「 ReaSupport 」──
 </h2>
-<p align="center"><img src="https://camo.githubusercontent.com/3eb671e3b90212d477637b06def8a964d457857b81b683b83cbccc4dc6e96c4f/68747470733a2f2f74656c656772612e70682f66696c652f3736376138353736663466363838666235636234342e706e67">
+<p align="center"><img src="https://rea.my.id/img/logo.png">
 </p>
 
 <div align="center">
