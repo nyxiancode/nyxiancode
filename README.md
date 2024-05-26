@@ -3,7 +3,7 @@
 <h2 align="center">
     ──「 AlteregoCodes 」──
 </h2>
-<p align="center"><img src="https://kutmut.my.id/logop.png">
+<p align="center"><img src="https://alterego.my.id/img/log.mp4">
 </p>
 
 <div align="center">
