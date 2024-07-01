@@ -29,7 +29,7 @@
 - ⚡ Fun fact **I'am Human**
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alteregocodes" alt="reasupport" /></a> </p> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alteregocodes" alt="alteregocodes" /></a> </p> 
 
 <h3 align="left">Connect with me:</h3>
 
