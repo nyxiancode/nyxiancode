@@ -34,7 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-NyxianNetwork-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/NyxianNetwork) [![Telegram](https://img.shields.io/badge/Nyxian-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/AlteregoMenfess)
+[![Telegram](https://img.shields.io/badge/Telegram-NyxianNetwork-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/NyxianNetwork) [![Telegram](https://img.shields.io/badge/Nyxian-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/KatsuHere)
 
 
 
