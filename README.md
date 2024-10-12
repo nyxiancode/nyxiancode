@@ -1,7 +1,7 @@
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
 <h2 align="center">
-──「 NyxianCode 」──
+─「 NyxianCode 」─
 </h2>
 <p align="center"><img src="https://files.catbox.moe/ha6pd0.png">
 </p>
@@ -21,7 +21,7 @@
 <h1 align="center">Hi 👋, I'm Kyu</h1>
 <h3 align="center">A passionate frontend developer from Indoneisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alteregocodes&label=Profile%20views&color=0e75b6&style=flat" alt="nekolocal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyxiancode&label=Profile%20views&color=0e75b6&style=flat" alt="nekolocal" /> </p>
 
 
 - 💬 Ask me about **My Telegram Bot Only**
@@ -29,12 +29,12 @@
 - ⚡ Fun fact **I'am Human**
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alteregocodes" alt="alteregocodes" /></a> </p> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyxiancode" alt="nyxiancode" /></a> </p> 
 
 <h3 align="left">Connect with me:</h3>
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-AlteregoNetwork-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/AlteregoNetwork) [![Telegram](https://img.shields.io/badge/AlteregoMenfess-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/AlteregoMenfess)
+[![Telegram](https://img.shields.io/badge/Telegram-NyxianNetwork-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/NyxianNetwork) [![Telegram](https://img.shields.io/badge/Nyxian-blue?logo=telegram&logoColor=white&color=blue&style=for-the-badge)](https://t.me/AlteregoMenfess)
 
 
 
