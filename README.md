@@ -1,9 +1,9 @@
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
 <h2 align="center">
-    ──「 AlteregoCodes 」──
+    ──「 NyxianCode 」──
 </h2>
-<p align="center"><img src="https://alterego.my.id/img/log.mp4">
+<p align="center"><img src="https://files.catbox.moe/ha6pd0.png">
 </p>
 
 <div align="center">
