@@ -1,7 +1,7 @@
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
 <h2 align="center">
-    ──「 NyxianCode 」──
+──「 NyxianCode 」──
 </h2>
 <p align="center"><img src="https://files.catbox.moe/ha6pd0.png">
 </p>
