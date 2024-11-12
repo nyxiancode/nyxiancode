@@ -3,5 +3,5 @@
 
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://nyxiannetwork.web.id/uploader/img/nyx7f28a14bb53652b24e9c3eec91c782ca.jpg)
 
