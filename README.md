@@ -4,7 +4,7 @@ supported by NyxianNetwork
 
 
 
-![Logo](https://nyxiannetwork.web.id/uploader/img/nyx7f28a14bb53652b24e9c3eec91c782ca.jpg)
+![Logo](https://nyxiannetwork.web.id/uploader/uploads/img/nyx67599a69405af2.87273208.jpg)
 
 
 
